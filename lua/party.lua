@@ -14,6 +14,7 @@ local function party_buffer()
     style = 'minimal',
     border = 'rounded',
   })
+
   vim.cmd('terminal curl https://parrot.live')
 
   local buf = vim.api.nvim_get_current_buf()
