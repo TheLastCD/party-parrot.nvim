@@ -3,7 +3,8 @@
 * This is the most pointless neovim plugin ever made
 
 # Screenshot
-<img width="1917" height="1074" alt="image" src="https://github.com/user-attachments/assets/43b91eab-994b-4dae-aaec-7ed89ee320b6" />
+<img width="1904" height="1052" alt="image" src="https://github.com/user-attachments/assets/a80b2fac-619f-4a72-81d6-97c2922fdfeb" />
+
 
 
 # Installation
