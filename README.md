@@ -9,3 +9,8 @@
 ## Plug
 
 ```Plug 'TheLastCD/party-parrot.nvim'```
+
+
+
+# Thanks
+*[hugomd](https://github.com/hugomd/parrot.live)
