@@ -13,4 +13,4 @@
 
 
 # Thanks
-*[hugomd](https://github.com/hugomd/parrot.live)
+* [hugomd](https://github.com/hugomd/parrot.live)
